@@ -1,0 +1,9 @@
+# Mac system files
+.DS_Store
+
+# C compiled executables (files with no extension)
+*
+!*.*
+
+# Debugging folders
+*.dSYM/
