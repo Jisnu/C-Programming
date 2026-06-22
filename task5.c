@@ -3,7 +3,7 @@
  * Description:  This program reads a dataset of elephant seal weights from an
  * external file, uses modular helper functions to handle parsing,
  * encapsulates math calculations, and outputs the average weight.
- * Author:       Adaptive AI Assistant
+ * Author:       Jisnu Praharaj
  * Date:         May 25, 2026
  *******************************************************************************/
 
